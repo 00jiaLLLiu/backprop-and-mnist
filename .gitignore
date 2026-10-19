@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# MNIST (auto-downloaded by torchvision)
+dataset/
+
+# Data / OS / macOS metadata
+.DS_Store
+Thumbs.db
+__MACOSX/
